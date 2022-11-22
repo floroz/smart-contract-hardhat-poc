@@ -1,0 +1,13 @@
+{
+  "name": "jpegdegens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniele Tortora <contact@danieletortora.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.12.2"
+  },
+  "scripts": {
+    "compile": "hardhat compile"
+  }
+}
